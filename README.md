@@ -242,6 +242,9 @@ const result = await server.submitTransaction(transaction);
 - Implement proper session management
 - Enable Row Level Security (RLS) in Supabase
 - Regularly rotate encryption keys for enhanced security
+- Use a secure method to generate the encryption master key:
+  ```bash
+  openssl rand -hex 32
 
 ## Contributing
 
