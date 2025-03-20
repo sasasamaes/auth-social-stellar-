@@ -2,7 +2,7 @@
 
 An authentication and wallet management solution for Stellar blockchain applications. This module provides a seamless integration between modern authentication methods (social login, OTP) and Stellar wallet creation, all powered by Supabase.
 
-[![npm version](https://img.shields.io/npm/v/stellar-auth-module.svg)](https://www.npmjs.com/package/stellar-auth-module)
+[![npm version](https://img.shields.io/npm/v/stellar-auth-module.svg)](https://www.npmjs.com/package/auth-social-stellar)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
