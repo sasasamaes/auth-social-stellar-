@@ -1,5 +1,5 @@
 {
-  "name": "stellar-auth-module",
+  "name": "auth-social-stellar",
   "version": "0.1.0",
   "description": "Authentication and Stellar wallet management module with social login and OTP support",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
     "oauth",
     "otp"
   ],
-  "author": "Your Name",
+  "author": "sasasamaes",
   "license": "MIT",
   "dependencies": {
     "@supabase/supabase-js": "^2.38.4",
@@ -44,10 +44,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/stellar-auth-module.git"
+    "url": "git+https://github.com/sasasamaes/auth-social-stellar.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/stellar-auth-module/issues"
+    "url": "https://github.com/sasasamaes/auth-social-stellar/issues"
   },
-  "homepage": "https://github.com/yourusername/stellar-auth-module#readme"
+  "homepage": "https://github.com/sasasamaes/auth-social-stellar#readme"
 }
